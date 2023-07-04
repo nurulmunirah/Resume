@@ -1,0 +1,35 @@
+/*Main Page / Index.html*/
+.style{
+    display: flex;
+    background-color: aqua;
+}
+
+.name h1{
+    color:rgb(17, 139, 17);
+}
+
+.name h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.contact-me{
+    color:rgb(117, 228, 13);
+}
+
+a:hover{
+    color:brown;
+}
+
+.body{
+    box-sizing:border-box;
+}
+
+/*Education*/
+.first{
+   color: aquamarine;
+}
+
+.img{
+    width:fit-content;
+    height: fit-content;
+}

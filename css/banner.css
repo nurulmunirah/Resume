@@ -1,0 +1,31 @@
+#body{
+    background-color: blue;
+}
+.sidebar{
+    background-color:transparent;
+    height:618px !important;
+    width:504px !important;
+    border:60px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.logo-box{
+    height:200pc;
+    flex-basis: blue;
+    display: flex;
+    flex-direction:row;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-right: 40px;
+}
+
+.title-box{
+    height:200px;
+    flex-basis: 65%;
+    font-size: 4em;
+    background-color: transparent;
+}
+
