@@ -1,0 +1,53 @@
+.parent{
+    background-color:royalblue;
+    width:200px;
+    height:200px;
+    position: sticky;
+    top:
+}
+
+.children{
+    background-color:chartreuse;
+    width:300px;
+    height:300px;  
+}
+
+.distraction{
+    background-color:brown;
+    width:400px;
+    height:400px;
+    position: relative;
+}
+
+.img1{
+    widtg:10px;
+    height:10px;
+}
+
+.img2{
+    position:relative;
+    bottom:20px;
+    right:20px;
+}
+
+div{
+    background-color: brown;
+    width:100px;
+    height:100px;
+}
+
+.bekas2{
+    background-color:blueviolet;
+}
+
+.bekas3{
+    background-color:cyan;
+}
+
+.bekas4{
+    background-color:cornflowerblue;
+}
+
+.bekas5{
+    background-color:blue;
+}
